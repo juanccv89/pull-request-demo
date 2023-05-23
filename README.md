@@ -13,10 +13,10 @@ Pull Request haciendo modificación directamente en el archivo del repositorio
 
 # Pull Request haciendo un fork del repositorio
 
-    Hacer fork a este repositorio, ya que de esa forma podrás tener una copia en tu perfil.
-    Puedes clonar el repositorio en tu equipo local y editar directamente el archivo readme.md en tu editor de texto o usando la interfaz de Github.
-    Crea una nueva rama que identifique los cambios hechos ahí. Cámbiate a esa rama.
-    Edita los cambios en app.js y haz un commit en esa rama nueva. Si editaste el archivo en tu equipo local, haz un git push para poder subir tus cambios a GitHub.
-    Ve al repositorio de devtoolsAcademy/pull-request-demo y te aparecerá una leyenda que dice Compare and pull request, da click en esa opción para poder conifgurar el pull request.
-    Asegúrate que el repositorio y rama destino sea la de devtoolsAcademy/pull-request-demo branch:master y la de origen sea tu repositorio con tu rama nueva creada.
-    Añade comentarios y darle en Create Pull Request
+    1. Hacer fork a este repositorio, ya que de esa forma podrás tener una copia en tu perfil.
+    2. Puedes clonar el repositorio en tu equipo local y editar directamente el archivo readme.md en tu editor de texto o usando la interfaz de Github.
+    3. Crea una nueva rama que identifique los cambios hechos ahí. Cámbiate a esa rama.
+    4. Edita los cambios en Readme.md y haz un commit en esa rama nueva. Si editaste el archivo en tu equipo local, haz un git push para poder subir tus cambios a GitHub.
+    5. Ve al repositorio de devtoolsAcademy/pull-request-demo y te aparecerá una leyenda que dice Compare and pull request, da click en esa opción para poder conifgurar el pull request.
+    6. Asegúrate que el repositorio y rama destino sea la de devtoolsAcademy/pull-request-demo branch:master y la de origen sea tu repositorio con tu rama nueva creada.
+    7.Añade comentarios y darle en Create Pull Request
